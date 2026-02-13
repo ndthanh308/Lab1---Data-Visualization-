@@ -11,3 +11,4 @@ tqdm
 jupyter
 notebook
 scikit-learn
+playwright
